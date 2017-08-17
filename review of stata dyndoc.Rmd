@@ -1,0 +1,24 @@
+---
+title: "Review of Stata's dyndoc"
+author: "Tomas Dvorak"
+date: "August 17, 2017"
+output: html_document
+---
+
+As a huge fan of Stata I was super-excited for markdown dynamic documents newly available in the latest Stata 15 release.  I played with the feature for the last few days, and can report that I was able to produce a decent looking markdown document using Stata. However, I also have to say that Stata's markdown falls short of its RMarkdown alternative. Here are the reasons:
+
+1. Stata's dynamic document, 'dyndoc', is not integrated into Stata's development environment.  I typed my dyndoc using Stata's do-file editor. However, instead of pushing the execute button (as I would do if I were to run a do-file), I has to go back to Stata's command line and type and execute dyndoc command. 
+
+2. Stata's do-file editor is not built to handle dyndoc documents. Do-file editor treats everything as Stata code. This is good for my the code part of the document (code-chunks), but it is not good for the text part of the document. Do-file editor does not have spell check. It does not even recognize the dyndoc tags, i.e. it does not help with closing of the tags.
+
+3. Some of the dyndoc tags are clumsy. For example, the start and end of a code-chunk use two lines each; including graphs requires one code-chunk to create a graph, and another code-chunk to include it into the document.  
+
+4. Dyndoc does not produce pdf. It only produces an html document. This is in sharp contrast to the flexibility of RMarkdown output.
+
+5. Dyndoc does not support LaTex, BibTex or even outreg. This alone will be a deal-breaker for many users. Outreg is super-popular for displaying regression results but, because it generates a separate file, I was not able to include it in the dyndoc. LaTex and BibTex users should probably check out texdoc before trying out dyndoc.
+
+5. No support for publishing html to the web.  Stata's dyndoc lacks the one-button experience of publishing html that exists in RStudio. Moreover, the html created by dyndoc is not self-contained (it needs any image/figure files). This makes sharing the document cumbersome, unlike the self-contained html created by RMarkdown. 
+
+In conclusion, dyndoc is a tiny step in the right direction for Stata.  Much more needs to be done to be even in the neighborhood of the flexibility, capability and ease of use of RMarkdown. 
+
+

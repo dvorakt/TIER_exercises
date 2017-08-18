@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#EAF2F3"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-width:5.76"/>
+	<rect x="390.80" y="275.35" width="3468.22" height="2343.90" style="fill:#FFFFFF"/>
+	<rect x="393.68" y="278.23" width="3462.46" height="2338.14" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="390.80" y1="2518.39" x2="3859.02" y2="2518.39" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="2089.96" x2="3859.02" y2="2089.96" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1661.52" x2="3859.02" y2="1661.52" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1233.08" x2="3859.02" y2="1233.08" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="804.65" x2="3859.02" y2="804.65" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="376.21" x2="3859.02" y2="376.21" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<rect x="579.89" y="1182.47" width="441.42" height="301.46" style="fill:#8DA3B7"/>
+	<rect x="584.21" y="1186.79" width="432.78" height="292.82" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="579.89" y1="1366.49" x2="1021.31" y2="1366.49" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="800.54" y1="1483.93" x2="800.54" y2="1793.69" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="800.54" y1="1182.47" x2="800.54" y2="785.96" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="652.66" y1="1793.69" x2="948.42" y2="1793.69" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="652.66" y1="785.96" x2="948.42" y2="785.96" style="stroke:#1A476F;stroke-width:8.64"/>
+	<rect x="1462.72" y="1242.37" width="441.54" height="327.70" style="fill:#8DA3B7"/>
+	<rect x="1467.04" y="1246.68" width="432.90" height="319.06" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1462.72" y1="1439.01" x2="1904.27" y2="1439.01" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1683.49" y1="1570.07" x2="1683.49" y2="1827.23" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1683.49" y1="1242.37" x2="1683.49" y2="965.40" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1535.61" y1="1827.23" x2="1831.38" y2="1827.23" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="1535.61" y1="965.40" x2="1831.38" y2="965.40" style="stroke:#1A476F;stroke-width:8.64"/>
+	<rect x="2345.68" y="1246.57" width="441.42" height="221.89" style="fill:#8DA3B7"/>
+	<rect x="2350.00" y="1250.89" width="432.78" height="213.25" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2345.68" y1="1336.29" x2="2787.10" y2="1336.29" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2566.33" y1="1468.46" x2="2566.33" y2="1731.32" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2566.33" y1="1246.57" x2="2566.33" y2="967.38" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2418.45" y1="1731.32" x2="2714.21" y2="1731.32" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2418.45" y1="967.38" x2="2714.21" y2="967.38" style="stroke:#1A476F;stroke-width:8.64"/>
+	<rect x="3228.51" y="1261.55" width="441.54" height="338.59" style="fill:#8DA3B7"/>
+	<rect x="3232.83" y="1265.87" width="432.90" height="329.95" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="3228.51" y1="1429.23" x2="3670.05" y2="1429.23" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="3449.28" y1="1600.14" x2="3449.28" y2="2030.68" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="3449.28" y1="1261.55" x2="3449.28" y2="1016.51" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="3301.40" y1="2030.68" x2="3597.17" y2="2030.68" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="3301.40" y1="1016.51" x2="3597.17" y2="1016.51" style="stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="800.54" cy="2237.72" r="26.35" style="fill:#1A476F"/>
+	<circle cx="800.54" cy="2237.72" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="1683.49" cy="643.03" r="26.35" style="fill:#1A476F"/>
+	<circle cx="1683.49" cy="643.03" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="2025.23" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="2025.23" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="1810.02" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="1810.02" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="892.51" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="892.51" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="885.95" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="885.95" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="885.21" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="885.21" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="857.37" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="857.37" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="2566.33" cy="542.78" r="26.35" style="fill:#1A476F"/>
+	<circle cx="2566.33" cy="542.78" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<circle cx="3449.28" cy="2438.94" r="26.35" style="fill:#1A476F"/>
+	<circle cx="3449.28" cy="2438.94" r="22.03" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="390.80" y1="2619.25" x2="390.80" y2="275.35" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="390.80" y1="2518.39" x2="350.83" y2="2518.39" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="2518.39" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,2518.39)" text-anchor="middle">-10</text>
+	<line x1="390.80" y1="2089.96" x2="350.83" y2="2089.96" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="2089.96" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,2089.96)" text-anchor="middle">-5</text>
+	<line x1="390.80" y1="1661.52" x2="350.83" y2="1661.52" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1661.52" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1661.52)" text-anchor="middle">0</text>
+	<line x1="390.80" y1="1233.08" x2="350.83" y2="1233.08" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1233.08" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1233.08)" text-anchor="middle">5</text>
+	<line x1="390.80" y1="804.65" x2="350.83" y2="804.65" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="804.65" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,804.65)" text-anchor="middle">10</text>
+	<line x1="390.80" y1="376.21" x2="350.83" y2="376.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="376.21" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,376.21)" text-anchor="middle">15</text>
+	<text x="190.71" y="1447.30" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 190.71,1447.30)" text-anchor="middle">Average real GDP growth over next four years</text>
+	<line x1="390.80" y1="2619.25" x2="3859.02" y2="2619.25" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="800.54" y="2729.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">0-30%</text>
+	<text x="1683.49" y="2729.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">30-60%</text>
+	<text x="2566.33" y="2729.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">60-90%</text>
+	<text x="3449.28" y="2729.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">Above 90%</text>
+	<text x="2124.91" y="215.98" style="font-family:'Helvetica';font-size:139.96px;fill:#1E2D53" text-anchor="middle">Initial debt level and subsequent growth</text>
+</svg>

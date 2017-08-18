@@ -8,6 +8,7 @@ output:
     theme: lumen
     toc: true
     toc_float: true
+    code_folding: show
 bibliography: "growth and debt.bib"
 nocite: |
   @reinhartrogoffAER2010, @herndon2014does, @gentzkow2014code, @panizza2014public, @eberhardt2015public

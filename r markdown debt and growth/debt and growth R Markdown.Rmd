@@ -146,7 +146,7 @@ The regression results show statistically significant negative relationship betw
 
 As described in [Gentzkow and Shapiro (2014)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf), doing empirical work involves writing a lot of code. Code makes analysis reproducible, less prone to errors, and easily extendable. This note introduced the concepts of retrieving, manipulating and analyzing data using Stata code. Although, the empirical results are just the first pass, they are meaningful, consistent with existing finding, and, importantly, can be used as a starting point for further analysis. 
 
-## Exercices
+## Exercises
 
 1. How sensitive are the regression results to including certain countries? Create a scatter plot of initial debt-to-GDP ratio against subsequent growth. Is there a particular country that seems to drive the negative relationship? Re-estimate the regression without that country. 
 
